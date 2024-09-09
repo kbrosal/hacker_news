@@ -3,6 +3,8 @@
 ## Project Description
 This project demonstrates how to build both batch and streaming data pipelines and store the data in Google BigQuery using the following tools:
 
+![image](https://github.com/user-attachments/assets/3a2fdaa4-9321-4816-9c65-3efcda00974c)
+
 * Python
 * SQL
 * Apache Beam
