@@ -1,0 +1,5 @@
+# Ignore the environment file
+.env
+
+# Ignore the service account JSON file
+data-engineering-433013-45828c9ee173.json
